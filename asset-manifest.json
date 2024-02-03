@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/infinitycolorlab/static/css/main.412b6a6d.css",
+    "main.js": "/infinitycolorlab/static/js/main.6e16271b.js",
+    "static/js/592.7be2226d.chunk.js": "/infinitycolorlab/static/js/592.7be2226d.chunk.js",
+    "static/media/INFINITY COLOR LAB LOGO 8.png": "/infinitycolorlab/static/media/INFINITY COLOR LAB LOGO 8.e2af40d4b81a81494eeb.png",
+    "static/media/logo.svg": "/infinitycolorlab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/infinitycolorlab/index.html",
+    "main.412b6a6d.css.map": "/infinitycolorlab/static/css/main.412b6a6d.css.map",
+    "main.6e16271b.js.map": "/infinitycolorlab/static/js/main.6e16271b.js.map",
+    "592.7be2226d.chunk.js.map": "/infinitycolorlab/static/js/592.7be2226d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.412b6a6d.css",
+    "static/js/main.6e16271b.js"
+  ]
+}
